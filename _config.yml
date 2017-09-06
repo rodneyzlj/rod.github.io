@@ -3,8 +3,8 @@ title: 闫肃的博客
 email: suyan0830@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   闫肃的博客
-baseurl: rod.github.io # the subpath of your site, e.g. /blog/
-url: http://rod.github.io # the base hostname & protocol for your site
+baseurl: https://rodneyzlj.github.io/rod.github.io/ # the subpath of your site, e.g. /blog/
+url: https://rodneyzlj.github.io/rod.github.io/ # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Su Yan
 
@@ -31,7 +31,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: rod.github.io
+  url: https://rodneyzlj.github.io/rod.github.io/
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
