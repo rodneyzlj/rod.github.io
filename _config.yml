@@ -1,9 +1,9 @@
 # Site settings
-title: rod的博客
+title: 闫肃的博客
 email: suyan0830@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  rod的博客
-baseurl: "" # the subpath of your site, e.g. /blog/
+  闫肃的博客
+baseurl: rod.github.io # the subpath of your site, e.g. /blog/
 url: http://rod.github.io # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Su Yan
