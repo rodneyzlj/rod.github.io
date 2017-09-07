@@ -1,10 +1,10 @@
 # Site settings
-title: 闫肃的博客
-email: suyan0830@gmail.com
+title: 张的博客
+email: 24802247@qq.com
 description: > # this means to ignore newlines until "baseurl:"
-  闫肃的博客
-baseurl: https://rodneyzlj.github.io/rod.github.io/ # the subpath of your site, e.g. /blog/
-url: https://rodneyzlj.github.io/rod.github.io/ # the base hostname & protocol for your site
+  rod zhang的博客
+baseurl: https://rodneyzlj.github.io # the subpath of your site, e.g. /blog/
+url: rodney.github.io/ # the base hostname & protocol for your site
 rss_url: /pages/feed.xml
 author: Su Yan
 
@@ -31,7 +31,7 @@ disqus:
 # google analytics config
 ga:
   id: UA-54767140-1
-  url: https://rodneyzlj.github.io/rod.github.io/
+  url: https://rodneyzlj.github.io/
 
 # Build settings
 permalink: /:year/:month/:day/:title.html
